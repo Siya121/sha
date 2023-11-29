@@ -104,8 +104,9 @@
 }
 
 .bg-hero {
-    background: url(../img/carousel-1.jpg) top right no-repeat;
+    background: url(Chips_Banner.png) top right no-repeat;
     background-size: cover;
+	height:500px;
 }
 
 @media (min-width: 991.98px) {
