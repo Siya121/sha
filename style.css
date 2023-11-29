@@ -107,6 +107,7 @@
     background: url(Chips_Banner.png) top right no-repeat;
     background-size: cover;
 	height:500px;
+	width:100%
 }
 
 @media (min-width: 991.98px) {
