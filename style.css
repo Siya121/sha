@@ -110,6 +110,13 @@
 	width:100%
 }
 
+.bg-hero2 {
+    background: url(Puff_banner.png);
+    background-size: cover;
+	height:500px;
+	width:100%
+}
+
 @media (min-width: 991.98px) {
     .banner {
         position: relative;
