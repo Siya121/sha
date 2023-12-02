@@ -111,11 +111,19 @@
 }
 
 .bg-hero2 {
-    background: url(Puff_banner.png);
+    background: url(Puff_banner.png) top right no-repeat;
     background-size: cover;
 	height:500px;
 	width:100%
 }
+
+.bg-hero3 {
+    background: url(Namkeen.png) top right no-repeat;
+    background-size: cover;
+	height:500px;
+	width:100%
+}
+
 
 @media (min-width: 991.98px) {
     .banner {
