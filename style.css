@@ -124,6 +124,13 @@
 	width:100%
 }
 
+.bg-hero4 {
+    background: url(frym.png) top right no-repeat;
+    background-size: cover;
+	height:500px;
+	width:100%
+}
+
 
 @media (min-width: 991.98px) {
     .banner {
