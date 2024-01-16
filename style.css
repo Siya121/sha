@@ -161,6 +161,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: .5s;
+	float:left;
+	padding:4px;
 }
 
 .service-item:hover {
